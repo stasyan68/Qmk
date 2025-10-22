@@ -3,5 +3,6 @@ CONSOLE_ENABLE = yes
 MOUSEKEY_ENABLE = yes
 POINTING_DEVICE_ENABLE = yes
 ANALOG_ENABLE = yes
-
+# Bootloader selection
+BOOTLOADER = rp2040
 
